@@ -1,0 +1,4 @@
+br\com\legalizzr\reactivebasic\NativeQuarkusReactBasicIT.class
+br\com\legalizzr\reactivebasic\QuarkusReactBasicTest.class
+br\com\legalizzr\reactivebasic\resource\FruitResourceTest.class
+META-INF\panache-archive.marker

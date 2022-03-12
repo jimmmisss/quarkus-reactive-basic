@@ -1,0 +1,4 @@
+br\com\legalizzr\reactivebasic\resource\FruitResource.class
+br\com\legalizzr\reactivebasic\entity\Fruit.class
+META-INF\panache-archive.marker
+br\com\legalizzr\reactivebasic\QuarkusReactBasic.class
